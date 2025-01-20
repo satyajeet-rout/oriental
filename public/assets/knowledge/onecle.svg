@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 100 50">
+  <!-- First text: one -->
+  <text x="48" y="35" font-size="30" font-weight="bold" fill="#EE3333">cle</text>
+  <text x="0" y="35" font-size="30" font-weight="bold" fill="#000000">one</text>
+  
+  <!-- Second text: cle -->
+</svg>
